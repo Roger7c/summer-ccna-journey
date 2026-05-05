@@ -1,0 +1,4 @@
+Documenting my CCNA learning journey: weekly notes, lab logs, resources, and progress updates.
+Structure- index.html — simple homepage linking to notes and labs- styles.css — basic styling- notes/ — weekly notes in Markdown (notes/week-01.md, etc.)- labs/ — lab writeups and configs (labs/lab-01.md, etc.)
+Quick start1. Add notes: Add file → Create new file → name notes/week-01.md → paste your note → Commit.2. Add index.html and styles.css once to make a simple homepage.3. Edit notes in the web UI for fast updates.
+Last updated: May 5, 2026
